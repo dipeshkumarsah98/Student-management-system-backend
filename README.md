@@ -1,6 +1,6 @@
 # Student-management-system-backend
 This is the student management system made with python using django framework. default superuser is username: dipesh password: dipesh
-This is an backend made with django rest framework. 
+This is an backend made with django rest framework.  I have implemented jwt for the authentication.
 The interface of the api would be like this: 
 ![image](https://user-images.githubusercontent.com/63381568/178244021-5d60c50b-e3ef-47e2-9096-a7b5bf3163b5.png)
 
